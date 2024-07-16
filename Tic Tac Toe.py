@@ -85,3 +85,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+''' Can be further developed to have a bot play as player 2'''
