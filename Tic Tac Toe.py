@@ -2,6 +2,7 @@ import random
 from itertools import cycle
 from textwrap import dedent
 
+'''Choose Who goes first'''
 def choose_first():
     return random.choice([0, 1])
 
